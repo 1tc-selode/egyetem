@@ -1,0 +1,7 @@
+linux: 
+gcc hello.c
+.\a.out
+
+windows:
+gcc -Wall -Wextra -pedantic hello.c
+.\a.exe
